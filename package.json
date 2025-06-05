@@ -2,9 +2,9 @@
   "name": "simple-chat",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js", 
+  "main": "node.js",
   "scripts": {
-    "start": "node app.js", 
+    "start": "node node.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
